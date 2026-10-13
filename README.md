@@ -1,2 +1,2 @@
 # saas-test
-A new repository created by Skysize.io
+A new repository created by Skysize.io odoo hosting
